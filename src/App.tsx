@@ -8,6 +8,14 @@ function App() {
         Persistent LS <s>Timer</s> Counter
       </h1>
       <Counter />
+      <br />
+      <hr />
+      <br />
+      <div>
+        <a href="https://dub.sh/V0MiSVH" target="_blank">
+          Github
+        </a>
+      </div>
     </>
   );
 }
