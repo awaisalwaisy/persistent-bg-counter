@@ -8,12 +8,12 @@ Here is the [Docs](./Docs.md)
 
 ### Features and implementations
 
-**Stack**: React/Typescript/Vite/Vanilla CSS/Browser API (Local storage)
-**Features:** Persist state even page refresh or tab is closed counter stays running on background
-**Development time:** RnD (5 hours) + Dev time (3 hours)
-**Good side:** 80 % what was asked.
-**Bad side:** Time cost is 8 hours. Implemented counter instead of timer
-**Ideal:** It supposed to be timer. (3 to 5 (max) hours.)
+- **Stack**: React/Typescript/Vite/Vanilla CSS/Browser API (Local storage)
+- **Features:** Persist state even page refresh or tab is closed counter stays running on background
+- **Development time:** RnD (5 hours) + Dev time (3 hours)
+- **Good side:** 80 % what was asked.
+- **Bad side:** Time cost is 8 hours. Implemented counter instead of timer
+- **Ideal:** It supposed to be timer. (3 to 5 (max) hours.)
 
 ### How was the experience
 
